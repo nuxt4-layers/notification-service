@@ -1,1 +1,1 @@
-# notification-service
+# @nuxt4-layers/notification-service
